@@ -11,7 +11,7 @@ Kevin has experience using computer software applications that include: R, Pytho
 - Teaching Assistantship (2016)
 - McMaster University Entrance Scholarship (2012)
 
-## Presenation
+## Presentation
 
 - _Discriminant Analysis for Longitudinal Data_, Statistical Society of
 Canada’s Annual Meeting, Winnipeg, Manitoba, June 2017. Contributed.
