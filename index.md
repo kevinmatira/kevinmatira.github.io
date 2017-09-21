@@ -2,7 +2,7 @@ Kevin Matira obtained his [M.Sc. in statistics](https://www.math.mcmaster.ca/ind
 
 Kevin received his B.Sc. in mathematics and statistics in 2016 from McMaster University.
 
-Kevin has experience using computer software applications that include: R, Python, SQL, SAS, Hadoop, Minitab, LateX, and MS Office.
+Kevin has experience using computer software applications that include: R, Python, SQL, SAS, Hadoop, Minitab, LaTeX, and MS Office.
 
 ## Awards
 
