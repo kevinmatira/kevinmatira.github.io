@@ -14,7 +14,7 @@ Kevin has experience using computer software applications that include: R, Pytho
 ## Presentation
 
 - _Discriminant Analysis for Longitudinal Data_, Statistical Society of
-Canada’s Annual Meeting, Winnipeg, Manitoba, June 2017. Contributed.
+Canada Annual Meeting, Winnipeg, Manitoba, June 2017. Contributed.
 
 ## Professional Accreditation
 
