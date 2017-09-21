@@ -31,3 +31,4 @@ Kevin received his B.Sc. in mathematics and statistics in 2016 from McMaster Uni
 ### Contact
 
 e: kevinmatira@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kevin-matira-bb465091/)
