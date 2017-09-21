@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+Kevin Matira obtained his [M.Sc. in statistics](https://www.math.mcmaster.ca/index.php/graduate-studies/graduate-degrees-awarded/57-/msc-statistics/608-degrees-awarded-msc-stats.html) in 2017 from McMaster University. His research focused on discriminant analysis for longitudinal data using Gaussian and non-Gaussian mixture model-based approaches.
 
-You can use the [editor on GitHub](https://github.com/kevinmatira/kevinmatira.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kevin received his B.Sc. in mathematics and statistics in 2016 from McMaster University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Programming
 
-### Markdown
+- R
+- Python
+- SAS
+- SQL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Other
 
-```markdown
-Syntax highlighted code block
+- LaTeX
+- MS Office
 
-# Header 1
-## Header 2
-### Header 3
+## Awards
 
-- Bulleted
-- List
+- Research Scholarship (2017)
+- Graduate Scholarship (2016)
+- Teaching Assistantship (2016)
+- McMaster University Entrance Scholarship (2012)
 
-1. Numbered
-2. List
+## Designations
+
+- **Associate Statistician (A.Stat.):** Statistical Society of Canada (Expected 2017)
+- **Analytics Individual Qualification (IQ):** Google (Expected 2017)
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kevinmatira/kevinmatira.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+e: kevinmatira@gmail.com
