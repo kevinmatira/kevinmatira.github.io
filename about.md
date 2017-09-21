@@ -1,7 +1,11 @@
 # About
 
 ## Education
-M.Sc. in Statistics, McMaster University
+
+- M.Sc. in Statistics, McMaster University, August 2017.
+
+- B.Sc. in Mathematics and Statistics, McMaster University, June 2016.
+
 ## Programming
 
 - R
