@@ -25,8 +25,6 @@ Kevin received his B.Sc. in mathematics and statistics in 2016 from McMaster Uni
 
 - **Associate Statistician (A.Stat.):** Statistical Society of Canada (Expected 2017)
 
-**Bold** and _Italic_ and `Code` text
-
 ### Contact
 e: kevinmatira@gmail.com
 
