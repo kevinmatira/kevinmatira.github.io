@@ -16,6 +16,10 @@ Kevin has experience using computer software applications that include: R, Pytho
 - _Discriminant Analysis for Longitudinal Data_, Statistical Society of
 Canada Annual Meeting, Winnipeg, Manitoba, June 2017. Contributed.
 
+## Publication
+
+- Matira, K. and McNicholas, P. D., “Discriminant Analysis for Longitudinal Data”, _MacSphere_. To appear.
+
 ## Professional Accreditation
 
 - Associate Statistician (A.Stat.), Statistical Society of Canada (Expected 2017)
