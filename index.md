@@ -1,4 +1,4 @@
-![image_of_kevin_matira](https://imgur.com/a/IUxxY)
+![Image](https://imgur.com/a/IUxxY)
 
 Kevin Matira obtained his [M.Sc. in statistics](https://www.math.mcmaster.ca/index.php/graduate-studies/graduate-degrees-awarded/57-/msc-statistics/608-degrees-awarded-msc-stats.html) in 2017 from McMaster University. His research focused on discriminant analysis for longitudinal data using Gaussian and non-Gaussian mixture model-based approaches under the supervision of [Dr. Paul D. McNicholas](https://ms.mcmaster.ca/~paul/index.html).
 
