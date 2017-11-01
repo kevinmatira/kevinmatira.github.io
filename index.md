@@ -20,7 +20,7 @@ Canada Annual Meeting, Winnipeg, Manitoba, June 2017. Contributed.
 
 ## Publication
 
-- Matira, K. and McNicholas, P. D., “Discriminant Analysis for Longitudinal Data”, _MacSphere_. To appear.
+- Matira, K. and McNicholas, P. D. (2017), 'Discriminant Analysis for Longitudinal Data', _MacSphere_.
 
 ## Professional Accreditation
 
