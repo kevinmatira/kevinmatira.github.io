@@ -24,7 +24,7 @@ Canada Annual Meeting, Winnipeg, Manitoba, June 2017. Contributed.
 
 ## Professional Accreditation
 
-- Associate Statistician (A.Stat.), Statistical Society of Canada (Expected 2018)
+- Associate Statistician (A.Stat.), Statistical Society of Canada (March 2018)
 
 ### Contact
 
